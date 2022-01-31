@@ -13,8 +13,11 @@ public class Main{
         s1.catchVillain(5); 
         s1.villainsCaught();
         s2.villainsCaught();
+        
+        //hello world
 
-         
+        System.out.println(p1.equals(p2)); 
+        System.out.println(s1.equals(s2)); 
 
         s1.speak("oomph"); 
         s2.speak("argh"); 
